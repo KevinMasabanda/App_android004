@@ -14,6 +14,8 @@ import java.util.SplittableRandom;
 
 public class MainActivity extends AppCompatActivity {
 
+    //mesnahe de pruba de git
+
     private EditText editTextCode;
     private EditText editTextName;
     private EditText editTextLastName;
