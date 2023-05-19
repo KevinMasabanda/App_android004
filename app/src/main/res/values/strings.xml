@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">App_android004</string>
+
+    <string name="textview_text_title">Mantenimiento: Contactos</string>
+
+    <string name="edittext_hint_code">Código: </string>
+    <string name="edittext_hint_name">Nombre: </string>
+    <string name="edittext_hint_lastname">Apellido: </string>
+    <string name="edittext_hint_phone">Teléfono: </string>
+    <string name="edittext_hint_email">Correo: </string>
+
+    <string name="button_text_insert">Insertar</string>
+    <string name="button_text_search">Buscar</string>
+    <string name="button_text_delete">Eliminar</string>
+    <string name="button_text_update">Modificar</string>
+</resources>
